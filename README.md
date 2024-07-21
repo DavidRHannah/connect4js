@@ -34,3 +34,11 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Game Screenshots
+### Start
+![start screen](./screenshots/home-default.png)
+### Red Wins
+![red wins screen](./screenshots/red-win.png)
+### Mobile Viewport Red Wins
+![small viewport red wins screen](./screenshots/small-viewport-red-win.png)
